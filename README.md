@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷 🇬🇧
+I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷
 
 I'm currently learning:
 <br><br>
@@ -34,7 +34,7 @@ I have some affinities with:
 <br><br>
 Other skills:
 <br><br>
-![Drawing/Design](https://www.redbubble.com/fr/people/Inkumie/shop?asc=u)
+[Drawing/Design](https://inkumie.carrd.co/)
 <br><br>
 
 <details>
@@ -50,5 +50,6 @@ Other skills:
 
 Feel free to contact me :
 <br><br>
-<a href="https://www.linkedin.com/in/dana%C3%A9-albrecht-martin-541a02244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danaé-informational"></a>
+<a href="www.linkedin.com/in/
+danaé-albrechtmartin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danaé-informational"></a>
 <a href="mailto:dev.danae@gmail.com"><img src="https://img.shields.io/badge/Email-dev.danae@gmail.com-orange"></a>
