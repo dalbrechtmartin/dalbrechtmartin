@@ -37,7 +37,6 @@ I have some affinities with:
 Other skills:
 <br>
 - [Drawing/Design](https://inkumie.carrd.co/)
-<br>
 
 <details>
 <summary>Some projects that I'm working on...</summary>
