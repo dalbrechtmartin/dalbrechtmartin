@@ -42,7 +42,7 @@ Other skills:
   
 <!-- project_list starts -->
 * __My Cooking Book :__
-  <br>[Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook) ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  <br>[Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * ...
 <!-- project_list ends -->
 
