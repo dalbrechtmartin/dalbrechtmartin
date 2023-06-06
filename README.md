@@ -2,7 +2,7 @@
 
 I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷
 
-![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username={dalbrechtmartin}&theme=blue-green)
+![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbrechtmartin&theme=blue-green)
 
 I'm currently learning:
 <br><br>
