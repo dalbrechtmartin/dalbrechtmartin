@@ -2,6 +2,8 @@
 
 I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷
 
+![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username={dalbrechtmartin}&theme=blue-green)
+
 I'm currently learning:
 <br><br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -35,7 +37,7 @@ I have some affinities with:
 Other skills:
 <br><br>
 [Drawing/Design](https://inkumie.carrd.co/)
-<br><br>
+<br>
 
 <details>
 <summary>Some projects that I'm working on...</summary>
