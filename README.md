@@ -50,8 +50,6 @@ Other skills:
 
 </details>
 
-<br>
-
 Feel free to contact me :
 <br><br>
 <a href="https://www.linkedin.com/in/
