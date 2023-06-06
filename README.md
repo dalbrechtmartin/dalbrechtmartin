@@ -50,6 +50,6 @@ Other skills:
 
 Feel free to contact me :
 <br><br>
-<a href="www.linkedin.com/in/
+<a href="https://www.linkedin.com/in/
 danaé-albrechtmartin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Danaé-informational"></a>
 <a href="mailto:dev.danae@gmail.com"><img src="https://img.shields.io/badge/Email-dev.danae@gmail.com-orange"></a>
