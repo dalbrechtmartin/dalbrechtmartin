@@ -41,8 +41,8 @@ Other skills:
 <summary>Some projects that I'm working on...</summary>
   
 <!-- project_list starts -->
-* My Cooking Book ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)\n
-  [Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook)
+* My Cooking Book ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+[Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook)
 * ...
 <!-- project_list ends -->
 
