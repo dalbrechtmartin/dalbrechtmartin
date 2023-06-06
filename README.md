@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷
+I'm [Danaé](https://github.com/dalbrechtmartin) ! 🇫🇷 ![Followers](https://img.shields.io/github/followers/dalbrechtmartin.svg?style=social&label=Follow&maxAge=2592000)
 
 ![MostUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=dalbrechtmartin&theme=blue-green) ![Stats](https://github-readme-stats.vercel.app/api?username=dalbrechtmartin&theme=blue-green)
 
