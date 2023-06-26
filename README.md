@@ -42,7 +42,7 @@ Other skills:
 <summary>Some projects that I'm working on...</summary>
   
 <!-- project_list starts -->
-<br>
+
 * __Portfolio :__
   <br>[FR Ver.](https://dalbrechtmartin.github.io/portfolioFR/) - [Repository](https://github.com/dalbrechtmartin/portfolioFR) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * __Twine Game : "Vous êtes perdu dans une forêt":__
