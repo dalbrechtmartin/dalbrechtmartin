@@ -44,7 +44,7 @@ Other skills:
 <!-- project_list starts -->
 
 * __Portfolio :__
-  <br>[FR Ver.](https://dalbrechtmartin.github.io/portfolioFR/) - [Repository](https://github.com/dalbrechtmartin/portfolioFR) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  <br>[FR Ver.](#) - [Repository](https://github.com/dalbrechtmartin/portfolioFR) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * __Twine Game : "Vous êtes perdu dans une forêt":__
   <br>[Demo](https://dalbrechtmartin.github.io/TwineGame-PerduDansUneForet/) - [Repository](https://github.com/dalbrechtmartin/TwineGame-PerduDansUneForet) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * __My Cooking Book :__
