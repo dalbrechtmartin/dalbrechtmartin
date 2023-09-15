@@ -46,9 +46,9 @@ Other skills:
 * __Portfolio :__
   <br>[FR Ver.](#) - [Repository](https://github.com/dalbrechtmartin/portfolioFR) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * __Twine Game : "Vous êtes perdu dans une forêt":__
-  <br>[Demo](https://dalbrechtmartin.github.io/TwineGame-PerduDansUneForet/) - [Repository](https://github.com/dalbrechtmartin/TwineGame-PerduDansUneForet) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  <br>[Demo](https://dalbrechtmartin.github.io/TwineGame-PerduDansUneForet/) - [Repository](https://github.com/dalbrechtmartin/TwineGame-PerduDansUneForet) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 * __My Cooking Book :__
-  <br>[Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook) | ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+  <br>[Demo](https://dalbrechtmartin.github.io/cookingbook/) - [Repository](https://github.com/dalbrechtmartin/cookingbook) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 * ...
 <!-- project_list ends -->
 
