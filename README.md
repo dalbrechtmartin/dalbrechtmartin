@@ -46,7 +46,7 @@ Other skills:
 * __Portfolio :__
   <br>[FR Ver.](http://www.danaedev.fr/) - [Repository](https://github.com/dalbrechtmartin/portfolioFR) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * __Inkumie Creations - Self-employed project :__
-  <br>[FR Ver.](https://www.inkumiecreations.fr/) | **WORK IN PROGRESS...** ![Maintained]
+  <br>[FR Ver.](https://www.inkumiecreations.fr/) | **WORK IN PROGRESS...** ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 * ...
 <!-- project_list ends -->
 
