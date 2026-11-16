@@ -1,0 +1,32 @@
+name: Statistiques du profil
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # chaque lundi à 5 h UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rafraichir:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Générer les images
+        run: python3 scripts/generer_images.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commiter si les images ont changé
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Aucun changement."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(stats): refresh profile statistics"
+          git push
